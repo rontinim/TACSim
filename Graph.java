@@ -1,25 +1,38 @@
 import java.io.File;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+import java.util.HashMap;
 import java.util.Hashtable;
+import java.util.Map;
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.Vector;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.lang.Runtime;
+import java.lang.management.ManagementFactory;
+import com.sun.management.OperatingSystemMXBean;
 
 public class Graph {
 	public int numVertices;
-	private int[][] edges;
+	public int[][] edges;
 	private int[][] distances; 
-//	private int[][] omega;
+	public static boolean printControl = false;
+	private static long maxRamForDistance = 0;
+	private static int contaExpress;
 	private boolean isGrid;
 	private boolean edgesProvided;
 	private boolean isGPS;
 	private boolean WETGenerated;
+	public  Dijkstra dij = new Dijkstra();
 	int gridWidth;
 	int gridHeight;
 	
 	Hashtable<Integer, GPSCoordinate> vertexCoordinates;
 	Hashtable<Integer, Vector<Task>> spatioTemporalTasks;
-	
-	
+	private static Map<String, Integer> dijkstraResultsCache = new HashMap<>();	
+	public Graph(){}
 	/**
 	 * Constructor that creates an empty graph with a specific number of vertices.
 	 * This should be used to create non-grid graphs only
@@ -65,54 +78,55 @@ public class Graph {
 	 * @param vertextFile 	 
 	 */
 	
-	public Graph(String vertexFile) {	
+	 public Graph(String vertexFile) {
 		isGrid = false;
 		isGPS = true;
 		edgesProvided = false;
 		WETGenerated = false;
 		try {
-			// Just to calculate distances at the end		
-			Hashtable<Integer, GPSCoordinate> reverseTracking = new Hashtable<Integer, GPSCoordinate>(); 
-			int vertextCounter = 0;
-
-			// Read the vertex information			
+			// Inizializza reverseTracking per il calcolo temporaneo delle distanze
+			Hashtable<Integer, GPSCoordinate> reverseTracking = new Hashtable<>();
+			int vertexCounter = 0;
+	
+			// Apertura e lettura del file contenente le coordinate dei vertici
 			Scanner vertices = new Scanner(new File(vertexFile));
-	    	while(vertices.hasNext()) {
-	    		String[] line = vertices.nextLine().split("\t");
-	    		
-//	    		if(vertexCoordinates.contains(line[0]+","+line[1]))
-//	    			throw new Exception("Should not happen. Vertices should be unique. Check your file!");
-	    		
-//	    		vertexCoordinates.put(line[0]+","+line[1], vertextCounter);
-	    		reverseTracking.put(vertextCounter, new GPSCoordinate(line[0]+","+line[1]));
-	    		vertextCounter++;
-	    	}
-	    	vertices.close();
-	    	
-	    	
-	    	// Now we can build our graph
-	    	numVertices = reverseTracking.size();// vertexCoordinates.size();
-	    	distances = new int[numVertices][numVertices];
-	    	
-	    	for(int i=0; i<numVertices; i++) {
-	    		for(int j=0; j<numVertices; j++) {
-	    			if(i!=j) {
-		    			GPSCoordinate v1 = reverseTracking.get(i);
-		    			GPSCoordinate v2 = reverseTracking.get(j);
-		    			
-		    			int dist = v1.GetDistance(v2);
-		    			distances[i][j] = dist;
-		    			distances[j][i] = dist;
-	    			}
-	    			
-	    		}
-	    	}
-	    	
+			while (vertices.hasNext()) {
+				String[] line = vertices.nextLine().split("\t");
+				// Assicurati che entrambe le coordinate siano presenti prima di aggiungere
+				if (!line[0].isEmpty() && !line[1].isEmpty()) {
+					GPSCoordinate coordinate = new GPSCoordinate(line[0] + "," + line[1]);
+					reverseTracking.put(vertexCounter++, coordinate);
+				}
+			}
+			vertices.close();
+	
+			// Assegnazione di reverseTracking a vertexCoordinates
+			vertexCoordinates = reverseTracking;
+	
+			// Costruzione delle distanze tra i vertici
+			numVertices = vertexCoordinates.size();
+			distances = new int[numVertices][numVertices];
+			for (int i = 0; i < numVertices; i++) {
+				for (int j = 0; j < numVertices; j++) {
+					if (i != j) {
+						GPSCoordinate v1 = vertexCoordinates.get(i);
+						GPSCoordinate v2 = vertexCoordinates.get(j);
+						if (v1 != null && v2 != null) {
+							int dist = v1.GetDistance(v2);
+							distances[i][j] = dist;
+							distances[j][i] = dist;
+						}
+					}
+				}
+			}
+	
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			System.out.println(e.getMessage());
-		}	
+		}
 	}
+	
+	
+	
 	/**
 	 * Constructor that creates a graph from tsv files; edges and distances
 	 * You need to have at least one to generate the graph
@@ -192,7 +206,7 @@ public class Graph {
 	 * Constructor that creates a graph after a set of traces are loaded
 	 * @param locationsFromTraces 
 	 */
-	public Graph(Hashtable<Integer, GPSCoordinate> locationsFromTraces) {
+	public Graph(Hashtable<Integer, GPSCoordinate> locationsFromTraces) { //METODO UTILIZZATO PER CREAZIONE GRAFO!!!!!!!!!!!!!
 		this.numVertices = locationsFromTraces.size();
 		isGrid = false;
 		isGPS = true;
@@ -339,7 +353,7 @@ public class Graph {
 
 		// After finishing the algorithm, backtrack to get the total rewards
 		// And the path
-		Path thePath = new Path();
+		MyPath thePath = new MyPath();
 
 		// Hope it works!
 		int currentVertex = 1;// Index in reachable list
@@ -441,7 +455,7 @@ public class Graph {
 
 		// After finishing the algorithm, backtrack to get the total rewards
 		// And the path
-		Path thePath = new Path();
+		MyPath thePath = new MyPath();
 
 		// Hope it works!
 		int currentVertex = 1;// Index in reachable list
@@ -597,7 +611,6 @@ public class Graph {
 		
 		return false;
 	}
-	
 	/**
 	 * This method is a getter for the distances array
 	 * It is created to help reduce the size of arrays used when working with trace-based grids
@@ -606,23 +619,131 @@ public class Graph {
 	 * @return
 	 */
 	public int getDistanceBetween(int vertex1, int vertex2) {
-		if(isGrid) {
-			int irow = vertex1/gridWidth;
-			int jrow = vertex2/gridWidth;
-			int icolumn = vertex1 % gridWidth;
-			int jcolumn = vertex2 % gridWidth;
-			return Math.abs(irow - jrow) + Math.abs(icolumn - jcolumn);
-		}
-		if(isGPS) {
+		MemoryUsageTracker memoryTracker = MemoryUsageTracker.getInstance();
+		
+		int distance = 0;
+		if (isGPS) {
 			GPSCoordinate v1 = vertexCoordinates.get(vertex1);
-			GPSCoordinate v2 = vertexCoordinates.get(vertex2);			
-			return v1.GetDistance(v2);		
+			GPSCoordinate v2 = vertexCoordinates.get(vertex2);
+			
+			String key = vertex1 + "-" + vertex2;
+			String reverseKey = vertex2 + "-" + vertex1;
+	
+			if (dijkstraResultsCache.containsKey(key)) {
+				saveParticipantDetails(v1, v2, dijkstraResultsCache.get(key));
+				return dijkstraResultsCache.get(key);
+			} else if (dijkstraResultsCache.containsKey(reverseKey)) {
+				saveParticipantDetails(v1, v2, dijkstraResultsCache.get(reverseKey));
+				return dijkstraResultsCache.get(reverseKey);
+			} else {
+                for(int method = 1; method <= 4; method++){
+					if(method==3) continue;
+					dij.setuseCache(method);
+					long memoryBefore = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
+					long cpuTimeBefore = System.nanoTime();
+					
+					distance = (int)Math.round(dij.calculateDistance(v1, v2));
+
+					long cpuTimeAfter = System.nanoTime();
+					long memoryAfter = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
+					long memoryUsed = (memoryAfter - memoryBefore) / (1024 * 1024);
+					long processTime = (cpuTimeAfter - cpuTimeBefore) / 1_000_000;
+					dijkstraResultsCache.put(key, distance);
+					saveParticipantDetails(v1, v2, distance);
+					memoryTracker.addMemoryUsage(memoryUsed);
+
+					if (memoryAfter > maxRamForDistance) {
+						maxRamForDistance = memoryAfter;
+					}
+					DataStore.addDataIfAbsent(new DataPoint(
+						v1.getLatitudine(), v1.getLongitudine(), v2.getLatitudine(), v2.getLongitudine(), 
+						processTime, memoryUsed, distance
+					), contaExpress, method);
+				}
+				return distance;
+			}
+		}else{
+			System.out.println("non GPS!!");
+			return -1;
 		}
 		
-		return distances[vertex1][vertex2];
+	}
+	public void getSizeDIJ(){
+		dij.getSize();
+	}
+	public void inizializeCache(){
+		dij.initializePersistentCaches();
+	}
+	public void clearCache(){
+		dij.clearStorage();
+	}
+	public void clearCacheDijkstra() {
+        dijkstraResultsCache.clear();
+    }
+	public long getMaxRamForDistance(){
+		return maxRamForDistance;
+	}
+	public void setContaExpress( int conta){
+		this.contaExpress = conta;
 	}
 	
+	/*
+	public int getDistanceBetween(int vertex1, int vertex2) {
+		if(isGPS) {
+			GPSCoordinate v1 = vertexCoordinates.get(vertex1);
+			GPSCoordinate v2 = vertexCoordinates.get(vertex2);
 	
+			// Creazione di una chiave univoca per la coppia di vertici
+			String key = vertex1 + "-" + vertex2;
+			String reverseKey = vertex2 + "-" + vertex1; // Perché la distanza è simmetrica
+	
+			// Controlla se il risultato è già presente nella cache
+			if(dijkstraResultsCache.containsKey(key)) {
+				saveParticipantDetails(v1, v2, dijkstraResultsCache.get(key));
+				return dijkstraResultsCache.get(key);
+			} else if (dijkstraResultsCache.containsKey(reverseKey)) {
+				saveParticipantDetails(v1, v2, dijkstraResultsCache.get(reverseKey));
+				return dijkstraResultsCache.get(reverseKey);
+			} else {
+				Runtime runtime = Runtime.getRuntime();
+				long memoryBefore = runtime.totalMemory() - runtime.freeMemory();
+				int distance = (int)dijkstra.calculateDistance(v1, v2);
+				
+				long memoryAfter = runtime.totalMemory() - runtime.freeMemory();
+				long memoryUsed = (memoryAfter - memoryBefore)/(1024 * 1024);
+				long maxMemoryMB = runtime.maxMemory()/(1024 * 1024); //Max memoria in MB
+				dijkstraResultsCache.put(key, distance);
+				saveParticipantDetails(v1, v2, distance);
+
+				try (PrintWriter out = new PrintWriter(new FileWriter("statusRam.txt", true))) {
+					if(memoryUsed != 0) {
+						out.print("Memoria utilizzata(MB): " + memoryUsed);
+						out.println("          Max disponibile (MB): " + maxMemoryMB);
+					}
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+		// Altri casi non legati alle coordinate GPS
+		return -1; // O gestione alternativa per i casi non GPS
+	}
+	*/
+	 private void saveParticipantDetails(GPSCoordinate start, GPSCoordinate end, int distance) {
+        if(printControl == true){
+			try (FileWriter fw = new FileWriter("ParticipantDetails.txt", true);
+				PrintWriter pw = new PrintWriter(fw)) {
+					if(distance != -1 && distance != 0){
+						pw.println("Partenza: " + start + ", Arrivo: " + end + ", Distanza: " + distance + " km" + ", Revenue" + (int)distance*1.4);
+					}
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
+    }
+	public void clearMaxRam(){
+		maxRamForDistance = 0;
+	}
 	/**
 	 * Calculates the column of the vertex based on the grid width
 	 * @param vertex The vertex ID
@@ -665,7 +786,7 @@ public class Graph {
 		
 		return (x1*x2 + y1*y2) / (Math.sqrt(Math.pow(x1,2) + Math.pow(y1,2)) * Math.sqrt(Math.pow(x2,2) + Math.pow(y2,2)));
 	}
-	
+
 	/**
 	 * Method to create the krackhardt_kite_graph as done in NetworkX library.
 	 * Needs no parameters because we follow the exact definition of the library.

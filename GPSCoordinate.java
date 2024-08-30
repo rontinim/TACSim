@@ -1,4 +1,3 @@
-
 public class GPSCoordinate {
 	double latitude;
 	double longitude;
@@ -14,8 +13,7 @@ public class GPSCoordinate {
 	}
 	
 	public int GetDistance(GPSCoordinate otherLocation) {		
-		
-		double lat1 = this.latitude;
+ 		double lat1 = this.latitude;
 		double lat2 = otherLocation.latitude;
 		double lon1 = this.longitude;
 		double lon2 = otherLocation.longitude;
@@ -31,6 +29,12 @@ public class GPSCoordinate {
 			dist = dist * 60 * 1.1515;				
 			return (int)dist;
 		}
+	}
+	public double getLatitudine(){
+		return this.latitude;
+	}
+	public double getLongitudine(){
+		return this.longitude;
 	}
 	public String toString() {
 		return latitude+","+longitude;

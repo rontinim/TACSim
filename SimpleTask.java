@@ -1,4 +1,3 @@
-
 public class SimpleTask extends Task{
 
 	public SimpleTask(int submit, int location, int deadline, int duration, double revenue) {

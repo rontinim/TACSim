@@ -2,9 +2,11 @@ import java.util.Random;
 
 public class DataGenerator {
 	
-	// This random variable is created once with a single seed, and all randomness comes from here
+	private static final long SEED = 12345L;
+    // This random variable is created once with a single seed, and all randomness comes from here
 	// This is done to maximize randomness
-	static Random theRand = new Random();
+    static Random theRand = new Random(SEED);
+
 
 	/**
 	 * Basic method to generate a set of participants
@@ -74,7 +76,7 @@ public class DataGenerator {
 		return generatedP;
 		
 	}	
-	
+	                     //METODO RICHIAMATO ATTUALMENTE QUELLO SOTTOSTANTE!!!!!!!
 	/**
 	 * Basic method to generate a set of participants
 	 * Graph must already be created for this method to work
@@ -84,10 +86,9 @@ public class DataGenerator {
 	 * @param typeParticipant
 	 * @param startTime
 	 * @return
-	 */
+	 */                                                                                                                         //il tpo di partecipanti serve per determinare quali task acetterano e come si comporteranno
 	public static Participant[] GenerateParticipants(int numParticipants, int flexLimit, Experiment.ParticipantBehavior typeParticipant, Task[] taskTraces) {
 		Participant[] generatedP = new Participant[numParticipants];
-
 		switch(typeParticipant) {
 		case AutoDistance:
 			for(int i=0; i<numParticipants; i++) {
@@ -140,7 +141,6 @@ public class DataGenerator {
 		default:
 				break;
 		}
-		
 		return generatedP;
 		
 	}	

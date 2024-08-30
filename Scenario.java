@@ -1,3 +1,6 @@
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Vector;
 
 public class Scenario {
@@ -13,7 +16,6 @@ public class Scenario {
 	
 	public Scenario(Participant[] allD, Task[] allR) {			
 //		theGraph = g;
-		
 		// Make copies of each task and participant
 		// Cloning is important here, to allow for multi-threading
 		allParticipants = new Participant[allD.length];
@@ -46,8 +48,11 @@ public class Scenario {
 	
 	
 	void startSimulation() {
+		//try {
+			//PrintWriter writer = new PrintWriter(new FileWriter("C:/Users/Matteo Rontini/Desktop/" + "result.txt", true));
 		while(eventsList.size() > 0) {
 //			System.out.println(eventsList.size());
+			//writer.println(theProvider.getSizeParticipant() + ";" + theProvider.getSizeTasl());
 			IEvent currEvent = eventsList.remove(0);
 			currentTime = currEvent.getEventTime();
 			IEvent nextEvent = currEvent.executeEvent();
@@ -75,8 +80,12 @@ public class Scenario {
 		detour /=numDrivers;
 		avgbenefit /= numDrivers;
 		avgFare /= numDrivers;		
-		
-		Experiment.simulationResults.add(new ResultTuple(numCompleted, numDrivers, detour, avgbenefit, avgFare));		
+		Experiment.simulationResults.add(new ResultTuple(numCompleted, numDrivers, detour, avgbenefit, avgFare));
+
+        //writer.close();
+	/* } catch (IOException e) {
+		e.printStackTrace();
+	}*/
 	}
 	
 	

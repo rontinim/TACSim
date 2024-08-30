@@ -67,7 +67,13 @@ public class ServiceProvider {
 	public void RemoveTask(Task theTask) {
 		availableTasks.remove(theTask);
 	}
-	
+
+	public int getSizeParticipant(){
+		return availableParticipants.size();
+	}
+	public int getSizeTasl(){
+		return availableTasks.size();
+	}
 	public void MarkClaimed(Vector<Task> claimed) {
 		for(Task t: claimed) {
 			t.isClaimed = true;

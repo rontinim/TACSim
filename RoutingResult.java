@@ -1,7 +1,7 @@
 public class RoutingResult {
 	
 	// The actual path chosen b the algorithm
-	Path recommendedPath;
+	MyPath recommendedPath;
 	// The tasks that can be completed on the way
 //	private Vector<Task> chosenTasks;
 	
@@ -13,13 +13,13 @@ public class RoutingResult {
 	//In case  of rides
 //	Task rideDetails;
 	
-	public RoutingResult(Path path, double rew, int det) {//, Vector<Task> details) {
+	public RoutingResult(MyPath path, double rew, int det) {//, Vector<Task> details) {
 		reward =  rew;		
 		
 		if(path != null)
 			recommendedPath = path;
 		else
-			recommendedPath = new Path();
+			recommendedPath = new MyPath();
 				
 		
 		detour = det;

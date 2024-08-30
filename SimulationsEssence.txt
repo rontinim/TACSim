@@ -1,0 +1,1988 @@
+  
+Città corrente: Bologna
+Numero di Task: 20
+Tempo risparmiabile: -97,02%
+Media RAM Utilizzata: 174,44 MB
+Differenza somma distanze Cache 1 e Cache 2: 2.966244223745768%
+ Minimo Ram utilizzata all'avvio del processo: 1.4619827270507812Mb  Max Ram Utilizzata per il calcolo delle distanze: 1216.001953125Mb  Max Ram utilizzata per il download della mappa: 497.21595001220703Mb Numero di Task: 40
+Tempo risparmiabile: -42,79%
+Media RAM Utilizzata: 107,61 MB
+Differenza somma distanze Cache 1 e Cache 2: 5.965292583648743%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1223.5Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -37,62%
+Media RAM Utilizzata: 129,12 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.25429300149360945%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1223.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -26,23%
+Media RAM Utilizzata: 122,16 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.3973547933442898%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1225.88037109375Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 100
+Tempo risparmiabile: -25,75%
+Media RAM Utilizzata: 135,11 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.2888720785879355%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1227.001953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Pisa
+Numero di Task: 20
+Tempo risparmiabile: -0,16%
+Media RAM Utilizzata: 137,60 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.6496215201294749%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1185.0Mb  Max Ram utilizzata per il download della mappa: 1030.5Mb Numero di Task: 40
+Tempo risparmiabile: -1,16%
+Media RAM Utilizzata: 148,64 MB
+Differenza somma distanze Cache 1 e Cache 2: 3.4273361628175647%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1193.001953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -2,00%
+Media RAM Utilizzata: 116,42 MB
+Differenza somma distanze Cache 1 e Cache 2: 3.5383086909918466%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1190.501953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -4,07%
+Media RAM Utilizzata: 127,97 MB
+Differenza somma distanze Cache 1 e Cache 2: 5.191012365932501%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1192.001953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 100
+Tempo risparmiabile: -5,80%
+Media RAM Utilizzata: 133,64 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.8739801815941994%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1196.501953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Brindisi
+Numero di Task: 20
+Tempo risparmiabile: -0,12%
+Media RAM Utilizzata: 132,86 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.006871865869581969%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1064.95849609375Mb  Max Ram utilizzata per il download della mappa: 929.3899841308594Mb Numero di Task: 40
+Tempo risparmiabile: -0,65%
+Media RAM Utilizzata: 144,15 MB
+Differenza somma distanze Cache 1 e Cache 2: 5.8547912541820235%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1128.5Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -1,21%
+Media RAM Utilizzata: 139,91 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.098912730840072%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1111.0859375Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -1,98%
+Media RAM Utilizzata: 132,08 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.7971832875488916%
+  
+Città corrente: Imola
+Numero di Task: 20
+Tempo risparmiabile: -16,81%
+Media RAM Utilizzata: 20,25 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.7627836706206823%
+ Minimo Ram utilizzata all'avvio del processo: 1.4619979858398438Mb  Max Ram Utilizzata per il calcolo delle distanze: 252.26451110839844Mb  Max Ram utilizzata per il download della mappa: 38.75169372558594Mb Numero di Task: 40
+Tempo risparmiabile: -28,80%
+Media RAM Utilizzata: 18,25 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.2477016515045334%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 279.8026123046875Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -30,95%
+Media RAM Utilizzata: 20,27 MB
+Differenza somma distanze Cache 1 e Cache 2: 4.645082117000554%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 314.2626419067383Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -18,92%
+Media RAM Utilizzata: 17,38 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.5774288718724904%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 319.38053131103516Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 100
+Tempo risparmiabile: -19,45%
+Media RAM Utilizzata: 19,60 MB
+Differenza somma distanze Cache 1 e Cache 2: 3.1968091747199603%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 341.0751953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Prato
+Numero di Task: 20
+Tempo risparmiabile: -2,72%
+Media RAM Utilizzata: 22,33 MB
+Differenza somma distanze Cache 1 e Cache 2: 2.681042283349185%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1266.13525390625Mb  Max Ram utilizzata per il download della mappa: 170.00467681884766Mb Numero di Task: 40
+Tempo risparmiabile: -13,87%
+Media RAM Utilizzata: 69,27 MB
+Differenza somma distanze Cache 1 e Cache 2: 2.0312014775426066%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1200.001953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -14,81%
+Media RAM Utilizzata: 63,36 MB
+Differenza somma distanze Cache 1 e Cache 2: 6.827344458318962%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1124.49755859375Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -18,51%
+Media RAM Utilizzata: 60,15 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.9847862626008033%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 923.99755859375Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 100
+Tempo risparmiabile: -17,03%
+Media RAM Utilizzata: 56,74 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.7026053563772288%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 918.001953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Brindisi
+Numero di Task: 20
+Tempo risparmiabile: -1,54%
+Media RAM Utilizzata: 63,79 MB
+Differenza somma distanze Cache 1 e Cache 2: 5.557930006100433%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1123.77783203125Mb  Max Ram utilizzata per il download della mappa: 645.90380859375Mb Numero di Task: 40
+Tempo risparmiabile: -4,22%
+Media RAM Utilizzata: 172,13 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.2354920824849684%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1166.115234375Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 60
+Tempo risparmiabile: -10,88%
+Media RAM Utilizzata: 162,44 MB
+Differenza somma distanze Cache 1 e Cache 2: 3.345292878361325%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1161.501953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 80
+Tempo risparmiabile: -13,29%
+Media RAM Utilizzata: 147,43 MB
+Differenza somma distanze Cache 1 e Cache 2: 1.1921009642202007%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1140.501953125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 100
+Tempo risparmiabile: -15,67%
+Media RAM Utilizzata: 152,02 MB
+Differenza somma distanze Cache 1 e Cache 2: 0.3766341075031738%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1184.5Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 80
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 100
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 229.0732421875Mb  Max Ram utilizzata per il download della mappa: 71.25145721435547Mb   
+Città corrente: 
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 80
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 100
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 253.24620056152344Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 80
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 100
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 318.73828125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 80
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 100
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 266.7390899658203Mb  Max Ram utilizzata per il download della mappa: 71.26097106933594Mb   
+Città corrente: 
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 40
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 732.9866027832031Mb  Max Ram utilizzata per il download della mappa: 71.42301940917969Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+Differenza somma distanze Cache 1 e Cache 2: 0.0%
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 126.95068359375Mb  Max Ram utilizzata per il download della mappa: 71.70848846435547Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 78.83751678466797Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 162.83751678466797Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 155.49014282226562Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 215.76104736328125Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 539.3974838256836Mb  Max Ram utilizzata per il download della mappa: 71.4422378540039Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 71.27992248535156Mb   
+Città corrente: 
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb  Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb  Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb  Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 98.45758056640625Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 71.5140609741211Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 80
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 491.17442321777344Mb  Max Ram utilizzata per il download della mappa: 71.38681030273438Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 503.2993392944336Mb  Max Ram utilizzata per il download della mappa: 71.59237670898438Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.6003265380859375Mb  Max Ram Utilizzata per il calcolo delle distanze: 504.7541961669922Mb  Max Ram utilizzata per il download della mappa: 71.21746063232422Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.6003265380859375Mb  Max Ram Utilizzata per il calcolo delle distanze: 598.5290985107422Mb  Max Ram utilizzata per il download della mappa: 71.51325988769531Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 611.2877655029297Mb  Max Ram utilizzata per il download della mappa: 71.62535858154297Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 560.0221176147461Mb  Max Ram utilizzata per il download della mappa: 33.828712463378906Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 568.3846893310547Mb  Max Ram utilizzata per il download della mappa: 33.927879333496094Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 34.018333435058594Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 33.907257080078125Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 33.91090393066406Mb   
+Città corrente: 
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 0.0Mb   
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+  
+Città corrente: Faenza
+Numero di Task: 20
+  
+Città corrente: Faenza
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.60028076171875Mb  Max Ram Utilizzata per il calcolo delle distanze: 547.1851196289062Mb  Max Ram utilizzata per il download della mappa: 33.90814208984375Mb   
+Città corrente: 
+Numero di Task: 20
+  
+Città corrente: Prato
+Numero di Task: 20
+  
+Città corrente: Brindisi
+Numero di Task: 20
+  
+Città corrente: Pisa
+Numero di Task: 20
+  
+Città corrente: Bologna
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 21
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Imola
+Numero di Task: 20
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Bologna
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 1.6002426147460938Mb  Max Ram Utilizzata per il calcolo delle distanze: 579.49267578125Mb  Max Ram utilizzata per il download della mappa: 71.71143341064453Mb   
+Città corrente: Brindisi
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 1649.5739440917969Mb  Max Ram utilizzata per il download della mappa: 377.0850372314453Mb   
+Città corrente: Prato
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 939.5012817382812Mb   
+Città corrente: Pisa
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 1073.2588653564453Mb   
+Città corrente: Bologna
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 1949.0458984375Mb   
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 6711.0638427734375Mb  Max Ram utilizzata per il download della mappa: 2389.0439453125Mb   
+Città corrente: Brindisi
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 6050.448631286621Mb  Max Ram utilizzata per il download della mappa: 4667.970703125Mb   
+Città corrente: Prato
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 4639.5844650268555Mb   
+Città corrente: Pisa
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 4936.5908203125Mb   
+Città corrente: Bologna
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+ Minimo Ram utilizzata all'avvio del processo: 0.0Mb  Max Ram Utilizzata per il calcolo delle distanze: 0.0Mb  Max Ram utilizzata per il download della mappa: 2493.947265625Mb   
+Città corrente: Imola
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+  
+Città corrente: Brindisi
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100
+  
+Città corrente: Brindisi
+  
+Città corrente: Brindisi
+  
+Città corrente: Brindisi
+Numero di Task: 20
+Numero di Task: 40
+Numero di Task: 60
+Numero di Task: 80
+Numero di Task: 100

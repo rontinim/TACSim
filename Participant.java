@@ -1,4 +1,5 @@
 import java.util.Vector;
+import org.openstreetmap.gui.jmapviewer.Coordinate;
 
 public abstract class Participant {
 	
@@ -34,11 +35,16 @@ public abstract class Participant {
 		finalPathLength = 0;
 		totalFareCollected = 0;
 		
-		tasksAssigned = new Vector<Task>();		
-		
-		maxArrivalTime = Experiment.theGraph.getDistanceBetween(startLoc,endLoc) + flex + departureTime;
+		tasksAssigned = new Vector<Task>();
+		if(flex == 0){
+			Experiment.theGraph.printControl = true;
+		}
+		int pp = Experiment.theGraph.getDistanceBetween(startLoc,endLoc);		
+		maxArrivalTime = pp + flex + departureTime;
 	}
-	
+	public Coordinate getLocation() {
+        return new Coordinate(currentLocTime.locationVertex, 0);  // Modifica la seconda coordinata se necessario
+    }
 	public void ConnectToServiceProvider(ServiceProvider provider) {
 		theProvider = provider;
 	}
@@ -48,9 +54,10 @@ public abstract class Participant {
 		currentLocTime.timeStep = timeStep;
 	}
 	
-	public void LeavePlatform() {
+	public void LeavePlatform() {//qua avevo aggiunto il controllo del theprovider==null salvata il leave,però non sembra terminare l'esecuzione
+		//theProvider.AddParticipant(this);
 		theProvider.RemoveParticipant(this);
-	}
+	}//ho visto che se commento va in palla, l'ultimo valore si inlooppa
 	
 	public void CalculateDetour() {
 		// My idea so far is to find the time and location of the last task
